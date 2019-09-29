@@ -32,9 +32,17 @@ Once its done we have to make a few changes to our i3 config. In a terminal type
 nano ~/.i3/config
 ```
 and replace the lines
+```
+#start dmenu (a program launcher)
+bindsym $mod+d exec dmenu_run
+```
+with 
+```
+#launch pplication via rofi
+bindsym $mod+d exec --no-startup-id rofi -show drun
+```
 
-'#start dmenu (a program launcher)
-bindsym $mod+d exec dmenu_run`
+
 
            
          *Unfinished
