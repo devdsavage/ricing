@@ -1,15 +1,15 @@
-#ricing
+# ricing
 
-##Useful Resources
+## Useful Resources
                         <li><a href="https://www.reddit.com/r/unixporn//a/">r/UnixPorn</a></li>
                         <li><a href="https://www.reddit.com/r/wallpapers/">r/wallpapers</a></li>
                         <li><a href="http://boards.4chan.org/wg/thread/7449335#p7449335/">Firefox CSS customization</a></li>
                         <li><a href="https://www.youtube.com/user/dubbeltumme">Budlabs</a></li>
-###Description
+### Description
 <p1>This is broken down to folders named months. I rice my desktop on a monthly basis hence the month naming
 Anyway lets get to busines
 
-###Tools of The trade
+### Tools of The trade
 
 There are a couple of things you need to be able to rice . I might not get everything correct so pardon me
 First you need an Operating System. 
@@ -28,7 +28,7 @@ nano ~/.i3/config
 ```
 and replace the lines
 
-# start dmenu (a program launcher)
+#start dmenu (a program launcher)
 bindsym $mod+d exec dmenu_run
            
          *Unfinished
