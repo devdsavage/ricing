@@ -16,7 +16,7 @@ First you need an Operating System.
 If you are not sure on which Linux Os to go with you can check this <a href="https://i.imgur.com/wXsA1Ls.jpg">guide.</a>
 We will be using manjaro in this guide  as it comes with a handy gui installer. Feel adventurous? install arch
 
-many 
+First Tool is <h5>rofi</h5>. 
            
            
          *Unfinished
