@@ -11,9 +11,12 @@ Anyway lets get to busines
 <h4>Tools of The trade</h4>
 <body>
 There are a couple of things you need to be able to rice . I might not get everything correct so pardon me
-First you need an Operating System.         
+First you need an Operating System. 
+  
 If you are not sure on which Linux Os to go with you can check this <a href="https://i.imgur.com/wXsA1Ls.jpg">guide.</a>
-We will be using manjaro in this guide  as it comes with a handy gui installer. If you feel adventurous you can install arch as manjaro is derived from it         
+We will be using manjaro in this guide  as it comes with a handy gui installer. Feel adventurous? install arch
+
+many 
            
            
          *Unfinished
