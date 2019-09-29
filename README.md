@@ -33,7 +33,8 @@ nano ~/.i3/config
 ```
 and replace the lines
 
-#start dmenu (a program launcher)
-bindsym $mod+d exec dmenu_run
+> #start dmenu (a program launcher)
+> bindsym $mod+d exec dmenu_run
+
            
          *Unfinished
