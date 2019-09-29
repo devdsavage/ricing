@@ -1,21 +1,4 @@
 <h1>ricing</h1>
-
-
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="author" content="https://github.com/0-l">
-        <link rel="stylesheet" type="text/css" href="css/awoo.min.css">
-        <link href="https://fonts.googleapis.com/css?family=Nunito:200|Roboto:100,400,700" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-    <h2>My Ricing Setups Over Time</h2>
-</head>
-    <div id="panels">
-    <ul class="SEPPUKU" active>
-        <div class="links">
-            <li>
              <h3>Useful Resources</h3>
                         <li><a href="https://www.reddit.com/r/unixporn//a/">r/UnixPorn</a></li>
                         <li><a href="https://www.reddit.com/r/wallpapers/">r/wallpapers</a></li>
