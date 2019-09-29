@@ -43,14 +43,10 @@ bindsym $mod+d exec --no-startup-id rofi -show drun
 ```
 For further Configuration we can edit our rofi config  `~/.config/rofi/config.rasi`
 
-if it doesnt exist create the folder and file accordingly
+if it doesnt exist create the folder and file accordingly.
+
 Replace what's in the file with
 ```
-/* config yoinked from pessip at: 
-   https://github.com/pessip/dotfiles/blob/master/.config/rofi/config.rasi 
-   Thanks for completing the theme! 
-*/
-
 configuration {
     display-run:                   "programs";
     display-window:                 "windows";
