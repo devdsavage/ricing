@@ -12,3 +12,5 @@ Kitty
 Ranger
 Zathura
 Cava
+Compton
+
