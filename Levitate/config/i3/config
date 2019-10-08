@@ -195,7 +195,7 @@ assign [class="Atom"] $ws2
 assign [class="Firefox"] $ws3
 
 # Compton
-exec_always --no-startup-id exec compton -f
+exec_always --no-startup-id pkill compton && compton -b --config /dev/null &
 
 # Firefox
 exec --no-startup-id firefox
